@@ -1,2 +1,5 @@
 # ATV-Mobile-Pac-mam
-protótipo de aplicativo mobile de jogo retro
+- Amanda e Kauä de Castro<br>
+# Sobre o projeto
+- Este projeto é um protótipo de uma aplicativo sobre o jogo retro Pac-mam. Contem imagems e descrições sobre o jogo e o protótipo do aplicativo.
+#  Wiki
