@@ -6,4 +6,5 @@
 #  Wiki
 - <a href="https://github.com/Amanda-Meneghin/ATV-Mobile-Pac-mam/wiki/Sobre-o-jogo">Sobre o Jogo</a>
 - <a href="https://github.com/Amanda-Meneghin/ATV-Mobile-Pac-mam/wiki/Prot%C3%B3tipo-do-Aplicativo">Prótotipo do Aplicativo</a>
-# Codigo 
+# Resultado final
+- <a href="https://github.com/Amanda-Meneghin/ATV-Mobile-Pac-mam/wiki/Codigo">Codigo</a>
