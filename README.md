@@ -1,6 +1,6 @@
 # ATV-Mobile-Pac-mam
 - Amanda Meneghin Pavarini
-- Kauã de Castro Barbara Fernades
+- Arthur Victor Souza Mascate
 # Sobre o projeto
 - Este projeto é um protótipo de uma aplicativo sobre o jogo retro Pac-mam. Contem imagems e descrições sobre o jogo e o protótipo do aplicativo.
 #  Wiki
